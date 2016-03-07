@@ -12,5 +12,6 @@
 <br>
 <h2>An Introduction to Open Refine</h2>
 <p>Open Refine is a vital tool for cleaning dirty data. A typical example is when a dataset contains names of people or companies but with inconsistent spelling that needs to be standardized. At NICAR, <a href="http://www.kaasogmulvad.dk/en/">Nils Mulvad</a> and <a href="http://www.geb.net">I</a> will walk through a tutorial he created. The exercise is <a href="https://github.com/gebelo/nicar2016/blob/master/refine.pdf">here</a>, the practice data <a href="https://github.com/gebelo/nicar2016/blob/master/prof.csv">here</a> and <a href="https://github.com/gebelo/nicar2016/blob/master/defendants.xlsx">here</a>.</p>
+<p><i>Note: After clicking on links, click "View Raw" if the file doesn't download immediately</i></p>
 
 
